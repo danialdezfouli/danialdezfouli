@@ -1,5 +1,5 @@
 ### Hi there 👋
-## you have Daniel is here
+## you have Daniel in here
 
 - 🌱 I’m currently learning golang and diving deeply into software architectures
 - 👯 I’m looking to collaborate on golang, React.js, and typescript projects.

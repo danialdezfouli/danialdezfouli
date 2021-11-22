@@ -1,5 +1,5 @@
 ## Hi there 👋
-### You have Daniel in here
+### You have Danial in here
 
 * always enthusiasm for learning about science, programming, health, and life
 * perfectionist
